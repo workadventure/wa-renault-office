@@ -1230,7 +1230,218 @@
          "draworder":"topdown",
          "id":63,
          "name":"configuration",
-         "objects":[],
+         "objects":[
+                {
+                 "height":156.84375,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Alpine",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":229.234375,
+                 "x":2713.8828125,
+                 "y":674.578125
+                }, 
+                {
+                 "height":252.844,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Accueil Design",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":353.234,
+                 "x":2429.383,
+                 "y":3323.578
+                }, 
+                {
+                 "height":156.844,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Mobilize",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":298.93096969697,
+                 "x":1587.32239393939,
+                 "y":570.850727272727
+                }, 
+                {
+                 "height":156.844,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Dacia",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":229.234,
+                 "x":603.928454545455,
+                 "y":588.062848484848
+                }, 
+                {
+                 "height":265.934909090909,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Renault inter",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":268.627939393939,
+                 "x":149.746636363636,
+                 "y":1773.88103030303
+                }, 
+                {
+                 "height":156.844,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Caf\u00e9teria",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":338.324909090909,
+                 "x":127.07996969697,
+                 "y":1271.45678787879
+                }, 
+                {
+                 "height":156.844,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Renault Exter",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":462.567333333334,
+                 "x":569.504212121212,
+                 "y":2911.09315151515
+                }, 
+                {
+                 "height":156.844,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio C & M",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":229.234,
+                 "x":162.958757575758,
+                 "y":2494.72951515151
+                }, 
+                {
+                 "height":268.844,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Salles R\u00e9unions Design",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":373.234,
+                 "x":1517.383,
+                 "y":3415.578
+                }, 
+                {
+                 "height":156.844,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Direction",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":347.415818181819,
+                 "x":1853.383,
+                 "y":2863.578
+                }, 
+                {
+                 "height":314.419757575758,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial",
+                     "pixelsize":67,
+                     "text":"Studio Digital et UX\/UI",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":377.718848484848,
+                 "x":2980.65572727273,
+                 "y":1160.42648484848
+                }],
          "offsetx":632,
          "offsety":-454,
          "opacity":1,
@@ -1644,7 +1855,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":23,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
