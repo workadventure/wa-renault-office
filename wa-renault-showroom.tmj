@@ -231,11 +231,11 @@
         {
          "columns":78,
          "firstgid":1633,
-         "image":"tilesets\/GK_JapaneseOfficeInterior_modifi\u00e9.png",
+         "image":"tilesets\/GK_JapaneseOfficeInterior_modified.png",
          "imageheight":928,
          "imagewidth":2496,
          "margin":0,
-         "name":"GK_JapaneseOfficeInterior_modifi\u00e9",
+         "name":"GK_JapaneseOfficeInterior_modified",
          "spacing":0,
          "tilecount":2262,
          "tileheight":32,
